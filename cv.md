@@ -51,4 +51,4 @@ function maxTriSum(numbers){
 ### Languages
 
 - **Russian:** Native-speaker
-- **English:** [C2 Proficient](https://www.efset.org/ef-set-50/take-test/#set50-131/result)
+- **English:** [C2 Proficient](https://www.efset.org/cert/N76dRa)
