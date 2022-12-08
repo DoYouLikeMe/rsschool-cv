@@ -42,3 +42,13 @@ function maxTriSum(numbers){
 }
 
 ```
+
+### Courses
+
+- [RS Schools Course «JavaScript/Front-end. Stage 0»](https://rs.school/)
+- [The Complete JavaScript Course 2023: From Zero to Expert!] (https://www.udemy.com/course/the-complete-javascript-course/)
+
+### Languages
+
+- **Russian:** Native-speaker
+- **English:** [C2 Proficient](https://www.efset.org/ef-set-50/take-test/#set50-131/result)
