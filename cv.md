@@ -31,3 +31,8 @@ I am a beginner front-end developer with experience in marketing. I am constantl
 [Drum Kit](https://willowy-otter-c49c8d.netlify.app/)
 
 [Plant Website](https://rolling-scopes-school.github.io/doyoulikeme-JSFEPRESCHOOL2022Q4/plants/)
+
+## Languages
+
+- Russian - Native
+- English - B2
