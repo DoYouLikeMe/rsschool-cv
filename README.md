@@ -1,1 +1,1 @@
-# rsschool-cv
+https://doyoulikeme.github.io/rsschool-cv/
